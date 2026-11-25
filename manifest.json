@@ -1,7 +1,7 @@
 {
   "name": "Boundary Live \u2014 Village Sports Broadcast",
   "short_name": "Boundary Live",
-  "description": "Offline-first cricket scoring and village tournament scoreboard",
+  "description": "Offline-first cricket and sport-specific village scoring",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#061522",

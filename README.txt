@@ -9,7 +9,9 @@ WHAT'S INCLUDED
 - Ball-by-ball cricket scorer, undo, innings transition, commentary, scorecard, charts
 - Player directory with optional local photo storage
 - Basic village tournament points table
-- Basic multi-sport scoreboards
+- Sport-specific scoreboards for Kabaddi, Football, Volleyball, Badminton, Kho-Kho and Basketball
+- Badminton game/set tracking and volleyball set tracking
+- Team/player roster fields and local score persistence
 - Optional Firebase Realtime Database REST publish/watch
 
 RUN LOCALLY
